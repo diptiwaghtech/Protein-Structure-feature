@@ -1,4 +1,4 @@
-# Structure-Aware Protein Feature Engineering Pipeline
+# Protein Structure Feature Engineering Pipeline for Generative Deep Learning
 
 ## Overview
 
